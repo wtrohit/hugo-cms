@@ -1,5 +1,5 @@
 ---
-title: Our Coffeeeee
+title: Our Coffeeee
 image: /img/products-jumbotron.jpg
 heading: 'What we offer '
 description: >-
